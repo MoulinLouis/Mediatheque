@@ -14,8 +14,8 @@
 
         <form class="form-inline my-2 my-lg-0" role="form" method="post" action="Traitement/traitementConnexion.php">
             <div class="form-group">
-                <input type="email" class="form-control" name="mail" placeholder="Email" required>
-                <input type="password" class="form-control" name="mdp" placeholder="Password" required>
+                <input type="email" class="form-control" name="mail" placeholder="Adresse mail" required>
+                <input type="password" class="form-control" name="mdp" placeholder="Mot de passe" required>
             </div>
             <button type="submit" class="btn btn-default"><font size=2>Connexion</font></button>
         </form>

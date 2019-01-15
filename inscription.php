@@ -32,12 +32,12 @@ if(isset($_SESSION['message'])) {
                     <h5 class="card-title text-center">Inscription</h5>
                     <form class="form-signin" method="post" action="Traitement/traitementInscription.php">
                         <div class="form-label-group">
-                            <label>Email address</label>
+                            <label>Adresse email</label>
                             <input type="email" name="mail" class="form-control" placeholder="Entrer votre adresse mail" required autofocus>
                         </div>
 
                         <div class="form-label-group">
-                            <label>Password</label>
+                            <label>Mot de passe</label>
                             <input type="password" name="mdp" class="form-control" placeholder="Au moins 6 caractères" required>
                         </div>
 
