@@ -6,15 +6,15 @@ Ce projet est un site de présentation d'une médiathèque permettant d'ajouter,
 
 Ce site permet de :
 
-> s'inscrire // se connecter
+> - s'inscrire // se connecter
 >
-> lister des films stockés dans une base de données
+> - lister des films stockés dans une base de données
 >
-> tri par ordre alphabétique, genre, 1ère lettre
+> - tri par ordre alphabétique, genre, 1ère lettre
 >
-> administration des films (modification, suppression)
+> - administration des films (modification, suppression)
 
-### Avancement Global
+## Avancement Global
 
    ![Progress](http://progressed.io/bar/75)
 
@@ -54,6 +54,11 @@ Site utilisant différents languages tel que
 
 ## Comment l'installer ?
 
-### Auteur
+Installer [WampServer][1]
+
+Y importer la base de donnée située dans **Mediateque/database/mediateque.sql**
+
+## Auteur
 * **Louis Moulin** - *Travail Initial* - [Playfade](https://github.com/Playfade)
 
+[1]: http://www.wampserver.com/
