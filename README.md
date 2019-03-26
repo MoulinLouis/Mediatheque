@@ -59,6 +59,6 @@ Installer [WampServer][1]
 Y importer la base de donnée située dans **Mediateque/database/mediateque.sql**
 
 ## Auteur
-* **Louis Moulin** - *Travail Initial* - [Playfade](https://github.com/Playfade)
+* **Louis Moulin** - *Travail Initial* - [Playfade](https://github.com/MoulinLouis)
 
 [1]: http://www.wampserver.com/
